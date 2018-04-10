@@ -1,8 +1,5 @@
 FROM jenkins:2.32.3
 
-USER root
-RUN chown -R -v root:root /usr/share
-
 COPY plugins.txt /usr/share/jenkins/plugins.txt
 RUN /usr/local/bin/plugins.sh /usr/share/jenkins/plugins.txt
 
