@@ -14,3 +14,4 @@ COPY config/*.groovy /usr/share/jenkins/ref/init.groovy.d/
 
 # lets configure Jenkins with some defaults
 COPY config/*.xml /usr/share/jenkins/ref/
+
