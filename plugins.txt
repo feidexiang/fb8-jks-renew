@@ -7,7 +7,7 @@ blueocean:1.4.2
 blueocean-autofavorite:1.2.2
 blueocean-commons:1.4.2
 blueocean-config:1.4.2
-blueocean-bibuchet-pipeline:latest
+blueocean-bitbucket-pipeline:latest
 blueocean-dashboard:1.4.2
 blueocean-display-url:2.2.0
 blueocean-github-pipeline:1.4.2
@@ -57,7 +57,7 @@ gradle:latest
 gravatar:latest
 handlebars:latest
 icon-shim:latest
-Jenkins-design-language:latest
+jenkins-design-language:latest
 jackson2-api:latest
 javadoc:latest
 jquery-detached:latest
