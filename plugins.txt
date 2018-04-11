@@ -34,7 +34,7 @@ durable-task:latest
 email-ext:latest
 external-monitor-job:latest
 favorite:latest
-git-changelog:1.latest
+git-changelog:latest
 git:latest
 git-client:latest
 git-server:latest
