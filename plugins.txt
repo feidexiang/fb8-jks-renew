@@ -27,6 +27,8 @@ bouncycastle-api:latest
 branch-api:2.0.19
 build-timeout:latest
 cloudbees-folder:latest
+cloudbees-bitbucket-branch-source:latest
+command-launcher:latest
 credentials:latest
 credentials-binding:latest
 display-url-api:latest
