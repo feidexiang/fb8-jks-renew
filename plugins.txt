@@ -23,7 +23,7 @@ blueocean-web:latest
 blueocean-core-js:latest
 blueocean-pipeline-editor:latest
 blueocean-pipeline-scm-api:latest
-bouncycastle-api:latestlatest
+bouncycastle-api:latest
 branch-api:latest
 build-timeout:latest
 cloudbees-folder:latest
