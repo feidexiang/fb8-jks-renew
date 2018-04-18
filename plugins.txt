@@ -65,6 +65,7 @@ jenkins-design-language:latest
 jackson2-api:latest
 javadoc:latest
 jquery-detached:latest
+jira:latest
 junit:latest
 jsch:latest
 kerberos-sso:latest
